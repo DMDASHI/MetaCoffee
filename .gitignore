@@ -36,8 +36,11 @@
 ExportedObj/
 .consulo/
 *.csproj
+!Assembly-CSharp.csproj
+!Assembly-CSharp-firstpass.csproj
 *.unityproj
 *.sln
+!MetaCoffeeIso.sln
 *.suo
 *.tmp
 *.user
